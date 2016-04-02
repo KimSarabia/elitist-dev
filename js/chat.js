@@ -17,7 +17,7 @@ function devbot() {
 
 		this.input = input.toLowerCase();
 
-		if(this.match('(hi|hello|hey|hola|howdy)(\\s|!|\\.|$)'))
+		if(this.match('(hi|yo|hello|hey|hola|howdy)(\\s|!|\\.|$)'))
 			return "don't bother me..im too busy writing a god object";
 
 		if(this.match('what[^ ]* up') || this.match('sup') || this.match('how are you'))
@@ -50,7 +50,7 @@ function devbot() {
 		if(this.input == 'noop')
 			return;
 
-		return input + "i code in a language you've never heard of";
+		return input + "? i haven't heard of that programming language before";
 	}
 
 	/**
