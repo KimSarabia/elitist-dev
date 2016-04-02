@@ -11,7 +11,7 @@ http://kimsarabia.github.io/elitist-dev/
 * Get ready to be schooled by the elitist dev.
 
 
-* Dedicated to [Tef](https://github.com/tef) who doesn't know me, but [inspires me to continue with programming every time I'm close to giving up.](https://www.youtube.com/watch?v=csyL9EC0S0c).s
+* Dedicated to [Tef](https://github.com/tef) who doesn't know me, but [inspires me to continue with programming every time I'm close to giving up.](https://www.youtube.com/watch?v=csyL9EC0S0c).
 
 ### Dependencies
 
