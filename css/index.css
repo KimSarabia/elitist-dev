@@ -5,9 +5,11 @@
 }
 
 body {
-	font-family: Helvetica, Arial, Sans-serif;
+	font-family: 'Oxygen', sans-serif;
 	font-size: 13px;
-	background-color: #fafafa;
+  background: #4b6cb7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #4b6cb7 , #182848); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #4b6cb7 , #182848); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .container {
@@ -18,12 +20,15 @@ body {
 .title {
 	font-size: 30px;
 	font-weight: bold;
-	font-family: "Courier New", Monospace;
-	text-shadow: #ccc 2px 2px 1px;
+	font-family: 'Candal', sans-serif;
+	color: #FFFFFF;
 	padding-bottom: 5px;
+	text-align: center;
 }
 
 .chat {
+	font-family: 'Oxygen', sans-serif;
+	font-size: 1.25em;
 	border: 1px solid #ccc;
 	height: 400px;
 	overflow-y: scroll;
@@ -61,6 +66,8 @@ body {
 }
 
 .input {
+	font-family: 'Oxygen', sans-serif;
+	font-size: 1.25em;
 	margin-top: 20px;
 }
 

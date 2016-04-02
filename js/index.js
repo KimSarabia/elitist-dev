@@ -2,7 +2,7 @@ $(function() {
 
 	// chat aliases
 	var you = 'You';
-	var elitistDev = 'Bot';
+	var elitistDev = 'Elitist Dev';
 
 	// slow reply by 400 to 800 ms
 	var delayStart = 400;

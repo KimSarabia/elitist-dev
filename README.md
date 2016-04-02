@@ -4,7 +4,7 @@
 JavaScript chat framework
 
 ### Demo
-
+http://kimsarabia.github.io/elitist-dev/
 
 ### Notes
 
